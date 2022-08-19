@@ -1,6 +1,6 @@
 site_name: rboc blog
 site_description: My personal blog
-repo_name: raulbocanegra/raulbocaengra.github.io
+repo_name: raulbocanegra/raulbocanegra.github.io
 repo_url: https://github.com/raulbocanegra/raulbocanegra.github.io
 theme:
   name: material
